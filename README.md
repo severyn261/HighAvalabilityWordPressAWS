@@ -1,6 +1,6 @@
 # HighAvalabilityWordPressAWS
 
-Terraform code which creates resources for WordPress on AWS.
+Terraform code which creates resources for WordPress on AWS.</br>
 Terraform version = 0.12.13
 
 # Authors
